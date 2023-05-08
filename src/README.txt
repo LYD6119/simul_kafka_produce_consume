@@ -1,0 +1,2 @@
+需要创建maven项目
+需要配置pom.xml文件来安装kafka依赖
